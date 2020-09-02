@@ -3,4 +3,6 @@
 </div>
 <p align="center">Manage your finances in a game of Monopoly from the browser.</p>
 
+<p align="center"><a href="https://github.com/michaeljandrews/monopoly-money/wiki">See the wiki for installation instructions</A>
+
 <p align="center">This repository is forked from: <a href="https://github.com/brentvollebregt/monopoly-money">https://github.com/brentvollebregt/monopoly-money</a></p>
