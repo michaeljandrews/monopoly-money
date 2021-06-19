@@ -94,44 +94,6 @@ const Home: React.FC<IHomeProps> = ({ onGameSetup }) => {
 
       <hr />
 
-      <div>
-        <h2>What is Monopoly Money?</h2>
-        <p>
-          Monopoly Money is a webapp that helps you keep track of your finances in a game of
-          Monopoly (or any game that uses currency).
-        </p>
-        <p>
-          Instead of using the cash that the game commonly comes with, you can play Monopoly like
-          you're playing the credit card edition, but with your phone - a much more faster way to
-          exchange money.
-        </p>
-
-        <div
-          style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr 1fr", gridGap: 6 }}
-          className="mt-5"
-        >
-          <img
-            src="https://nitratine.net/posts/monopoly-money/screenshot-1.png"
-            alt="Funds page with game id"
-            className="w-100"
-          />
-          <img
-            src="https://nitratine.net/posts/monopoly-money/screenshot-2.png"
-            alt="Transfering funds"
-            className="w-100"
-          />
-          <img
-            src="https://nitratine.net/posts/monopoly-money/screenshot-3.png"
-            alt="Game history"
-            className="w-100"
-          />
-          <img
-            src="https://nitratine.net/posts/monopoly-money/screenshot-4.png"
-            alt="Bankers actions page"
-            className="w-100"
-          />
-        </div>
-      </div>
     </div>
   );
 };
